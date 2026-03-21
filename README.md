@@ -1,4 +1,4 @@
-# 🧠 AI Echo - Sentiment Analysis Platform
+# 🤖 AI Echo - Sentiment Analysis Platform
 
 ---
 
