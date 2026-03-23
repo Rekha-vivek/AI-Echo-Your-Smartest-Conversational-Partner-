@@ -39,12 +39,6 @@ The project also includes **Exploratory Data Analysis (EDA)** and an interactive
 
 ---
 
-### 📄 Project Explanation
-
-* Step-by-step explanation included in app for easy presentation
-
----
-
 ## 🛠️ Tech Stack
 
 * Python
